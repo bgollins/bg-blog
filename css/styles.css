@@ -14,3 +14,13 @@
 .highlight {
   color: yellow;
 }
+
+img {
+  float: right;
+  width: 50%;
+}
+
+.column {
+  width: 300px;
+  float: right;
+}
