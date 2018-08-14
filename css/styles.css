@@ -1,0 +1,16 @@
+.inventory {
+ color: green;
+}
+
+.prices {
+ color: red;
+}
+
+.about {
+  color: blue;
+  font-weight: bold;
+}
+
+.highlight {
+  color: yellow;
+}
